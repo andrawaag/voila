@@ -10,3 +10,4 @@ dependencies:
   - ipympl
   - xleaflet=0.11.1
   - xeus-cling>=0.9
+  - wikidataintegrator
