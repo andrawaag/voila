@@ -1,7 +1,0 @@
-wikidataintegrator
-setuptools
-bqplot
-ipympl
-ipyvolume
-scipy
-voila
